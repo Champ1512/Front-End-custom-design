@@ -1,0 +1,48 @@
+
+
+.skills{
+
+justify-content: right;
+text-align: right;
+padding-top: 10px;
+padding-bottom: 5px;
+color:white;
+border-radius: 20px;
+}
+.bt{
+  width: 270px;
+  background:rgba(51,106,188,255);
+}
+.bw{
+  width: 70px;
+  background:rgba(51,106,188,255);
+}
+.bm{
+  width: 150px;
+  background:rgba(51,106,188,255);
+}
+
+
+.main{
+  margin-bottom: 5px;
+  margin-left: 70%;
+}
+.btn1{
+  border-color: aliceblue;
+width: 240px;
+  padding-top: 10px;
+padding-bottom: 5px;
+color: rgb(22, 24, 27);
+background-color: rgb(130, 171, 233);
+}
+.btn2{
+ 
+  border-color: aliceblue;
+  width: 240px;
+  width:240px;
+size: 80%;
+  padding-top: 10px;
+padding-bottom: 5px;
+color: rgb(22, 24, 27);
+background-color: rgb(130, 171, 233);
+}
